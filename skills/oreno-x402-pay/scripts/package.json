@@ -1,0 +1,8 @@
+{
+  "name": "oreno-x402-pay",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
